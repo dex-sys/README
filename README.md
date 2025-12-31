@@ -10,8 +10,11 @@
 - 💬 Ask me about **anything related to cibersecurity, I will do my best to try and help you**
 
 - 📫 How to reach me **ivandezad@gmail.com**
-- <p> <a href="https://app.hackthebox.com/users/1429452"/></a></p>
-
+<p align="center">
+  <a href="https://app.hackthebox.com/users/1429452" target="_blank">
+    <img src="https://account.hackthebox.com/storage/users/2827fbcf-d07e-44d2-b354-ba640978ae30-avatar.png" alt=Perfil de HackTheBox"" width="150">
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
